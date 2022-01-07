@@ -1,0 +1,463 @@
+{
+  "code": 200,
+  "currentTime": 1641512868150,
+  "data": {
+    "limitExceeded": false,
+    "stops": [
+      {
+        "code": "550682",
+        "direction": "NE",
+        "id": "MTA_550682",
+        "lat": 40.762929,
+        "locationType": 0,
+        "lon": -73.933802,
+        "name": "21 ST/34 AV",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "00AEEF",
+            "description": "Via 21St St / Ditmars Blvd",
+            "id": "MTABC_Q69",
+            "longName": "Long Island City - Astoria",
+            "shortName": "Q69",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q069cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      },
+      {
+        "code": "550685",
+        "direction": "SW",
+        "id": "MTA_550685",
+        "lat": 40.765227,
+        "locationType": 0,
+        "lon": -73.931869,
+        "name": "21 ST/BROADWAY",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "00AEEF",
+            "description": "Via 21St St / Ditmars Blvd",
+            "id": "MTABC_Q69",
+            "longName": "Long Island City - Astoria",
+            "shortName": "Q69",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q069cur.pdf"
+          },
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "FAA61A",
+            "description": "Via 21St St / 20Th Av",
+            "id": "MTABC_Q100",
+            "longName": "Astoria / Rikers Island - Long Island City Limited",
+            "shortName": "Q100",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q100cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      },
+      {
+        "code": "550686",
+        "direction": "NE",
+        "id": "MTA_550686",
+        "lat": 40.766756,
+        "locationType": 0,
+        "lon": -73.93017,
+        "name": "21 ST/31 RD",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "00AEEF",
+            "description": "Via 21St St / Ditmars Blvd",
+            "id": "MTABC_Q69",
+            "longName": "Long Island City - Astoria",
+            "shortName": "Q69",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q069cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      },
+      {
+        "code": "552166",
+        "direction": "SE",
+        "id": "MTA_552166",
+        "lat": 40.766193,
+        "locationType": 0,
+        "lon": -73.933631,
+        "name": "BROADWAY/14 ST",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "B933AD",
+            "description": "Via Broadway / 48Th St",
+            "id": "MTABC_Q104",
+            "longName": "Long Island City - Sunnyside",
+            "shortName": "Q104",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q104cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      },
+      {
+        "code": "552167",
+        "direction": "NW",
+        "id": "MTA_552167",
+        "lat": 40.76649,
+        "locationType": 0,
+        "lon": -73.933739,
+        "name": "BROADWAY/14 ST",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "B933AD",
+            "description": "Via Broadway / 48Th St",
+            "id": "MTABC_Q104",
+            "longName": "Long Island City - Sunnyside",
+            "shortName": "Q104",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q104cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      },
+      {
+        "code": "552169",
+        "direction": "SE",
+        "id": "MTA_552169",
+        "lat": 40.765089,
+        "locationType": 0,
+        "lon": -73.931595,
+        "name": "BROADWAY/21 ST",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "B933AD",
+            "description": "Via Broadway / 48Th St",
+            "id": "MTABC_Q104",
+            "longName": "Long Island City - Sunnyside",
+            "shortName": "Q104",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q104cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      },
+      {
+        "code": "552170",
+        "direction": "NW",
+        "id": "MTA_552170",
+        "lat": 40.765404,
+        "locationType": 0,
+        "lon": -73.931825,
+        "name": "BROADWAY/21 ST",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "B933AD",
+            "description": "Via Broadway / 48Th St",
+            "id": "MTABC_Q104",
+            "longName": "Long Island City - Sunnyside",
+            "shortName": "Q104",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q104cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      },
+      {
+        "code": "552171",
+        "direction": "SE",
+        "id": "MTA_552171",
+        "lat": 40.764346,
+        "locationType": 0,
+        "lon": -73.930229,
+        "name": "BROADWAY/23 ST",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "B933AD",
+            "description": "Via Broadway / 48Th St",
+            "id": "MTABC_Q104",
+            "longName": "Long Island City - Sunnyside",
+            "shortName": "Q104",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q104cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      },
+      {
+        "code": "552172",
+        "direction": "NW",
+        "id": "MTA_552172",
+        "lat": 40.764642,
+        "locationType": 0,
+        "lon": -73.930484,
+        "name": "BROADWAY/23 ST",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "B933AD",
+            "description": "Via Broadway / 48Th St",
+            "id": "MTABC_Q104",
+            "longName": "Long Island City - Sunnyside",
+            "shortName": "Q104",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q104cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      },
+      {
+        "code": "552954",
+        "direction": "SW",
+        "id": "MTA_552954",
+        "lat": 40.767282,
+        "locationType": 0,
+        "lon": -73.930056,
+        "name": "21 ST/31 AV",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "00AEEF",
+            "description": "Via 21St St / Ditmars Blvd",
+            "id": "MTABC_Q69",
+            "longName": "Long Island City - Astoria",
+            "shortName": "Q69",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q069cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      },
+      {
+        "code": "553040",
+        "direction": "NE",
+        "id": "MTA_553040",
+        "lat": 40.765445,
+        "locationType": 0,
+        "lon": -73.931388,
+        "name": "21 ST/BROADWAY",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "00AEEF",
+            "description": "Via 21St St / Ditmars Blvd",
+            "id": "MTABC_Q69",
+            "longName": "Long Island City - Astoria",
+            "shortName": "Q69",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q069cur.pdf"
+          },
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "FAA61A",
+            "description": "Via 21St St / 20Th Av",
+            "id": "MTABC_Q100",
+            "longName": "Astoria / Rikers Island - Long Island City Limited",
+            "shortName": "Q100",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q100cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      },
+      {
+        "code": "553107",
+        "direction": "SW",
+        "id": "MTA_553107",
+        "lat": 40.764644,
+        "locationType": 0,
+        "lon": -73.932412,
+        "name": "21 ST/33 AV",
+        "routes": [
+          {
+            "agency": {
+              "disclaimer": "",
+              "email": "",
+              "fareUrl": "",
+              "id": "MTABC",
+              "lang": "EN",
+              "name": "MTA Bus Company",
+              "phone": "",
+              "privateService": false,
+              "timezone": "America/New_York",
+              "url": "http://www.mta.info"
+            },
+            "color": "00AEEF",
+            "description": "Via 21St St / Ditmars Blvd",
+            "id": "MTABC_Q69",
+            "longName": "Long Island City - Astoria",
+            "shortName": "Q69",
+            "textColor": "FFFFFF",
+            "type": 3,
+            "url": "http://web.mta.info/busco/schedules/q069cur.pdf"
+          }
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+      }
+    ]
+  },
+  "text": "OK",
+  "version": 1
+}

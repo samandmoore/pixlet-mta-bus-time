@@ -1,0 +1,148 @@
+{
+  "Siri": {
+    "ServiceDelivery": {
+      "ResponseTimestamp": "2022-01-06T23:34:58.279-05:00",
+      "StopMonitoringDelivery": [
+        {
+          "MonitoredStopVisit": [
+            {
+              "MonitoredVehicleJourney": {
+                "LineRef": "MTABC_Q69",
+                "DirectionRef": "1",
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": "2022-01-06",
+                  "DatedVehicleJourneyRef": "MTABC_32046834-LGPA2-LG_A2-Weekday-01"
+                },
+                "JourneyPatternRef": "MTA_Q690134",
+                "PublishedLineName": [
+                  "Q69"
+                ],
+                "OperatorRef": "MTABC",
+                "OriginRef": "MTA_550624",
+                "DestinationRef": "MTA_982098",
+                "DestinationName": [
+                  "LI CITY QUEENS PLZ via DITMARS BL via 21 ST"
+                ],
+                "Monitored": true,
+                "VehicleLocation": {
+                  "Longitude": -73.930311,
+                  "Latitude": 40.766786
+                },
+                "Bearing": 231.90771,
+                "ProgressRate": "normalProgress",
+                "BlockRef": "MTABC_LGPA2-LG_A2-Weekday-01_6160316",
+                "VehicleRef": "MTABC_7461",
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-01-06T23:30:44.288-05:00",
+                  "ExpectedArrivalTime": "2022-01-06T23:35:44.127-05:00",
+                  "ArrivalProximityText": "< 1 stop away",
+                  "ExpectedDepartureTime": "2022-01-06T23:35:44.127-05:00",
+                  "DistanceFromStop": 217,
+                  "NumberOfStopsAway": 0,
+                  "StopPointRef": "MTA_550685",
+                  "VisitNumber": 1,
+                  "StopPointName": [
+                    "21 ST/BROADWAY"
+                  ]
+                }
+              },
+              "RecordedAtTime": "2022-01-06T23:34:43.000-05:00"
+            },
+            {
+              "MonitoredVehicleJourney": {
+                "LineRef": "MTABC_Q100",
+                "DirectionRef": "1",
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": "2022-01-06",
+                  "DatedVehicleJourneyRef": "MTABC_32048440-LGPA2-LG_A2-Weekday-01"
+                },
+                "JourneyPatternRef": "MTA_Q1000188",
+                "PublishedLineName": [
+                  "Q100"
+                ],
+                "OperatorRef": "MTABC",
+                "OriginRef": "MTA_552077",
+                "DestinationRef": "MTA_982109",
+                "DestinationName": [
+                  "LIMITED LI CITY QUEENS PLZ"
+                ],
+                "Monitored": true,
+                "VehicleLocation": {
+                  "Longitude": -73.895825,
+                  "Latitude": 40.772359
+                },
+                "Bearing": 144.73537,
+                "ProgressRate": "normalProgress",
+                "BlockRef": "MTABC_LGPA2-LG_A2-Weekday-01_6160380",
+                "VehicleRef": "MTABC_7481",
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-01-06T23:44:26.292-05:00",
+                  "ExpectedArrivalTime": "2022-01-06T23:47:29.311-05:00",
+                  "ArrivalProximityText": "2.8 miles away",
+                  "ExpectedDepartureTime": "2022-01-06T23:47:29.311-05:00",
+                  "DistanceFromStop": 4585,
+                  "NumberOfStopsAway": 5,
+                  "StopPointRef": "MTA_550685",
+                  "VisitNumber": 1,
+                  "StopPointName": [
+                    "21 ST/BROADWAY"
+                  ]
+                }
+              },
+              "RecordedAtTime": "2022-01-06T23:34:27.000-05:00"
+            },
+            {
+              "MonitoredVehicleJourney": {
+                "LineRef": "MTABC_Q69",
+                "DirectionRef": "1",
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": "2022-01-06",
+                  "DatedVehicleJourneyRef": "MTABC_32046836-LGPA2-LG_A2-Weekday-01"
+                },
+                "JourneyPatternRef": "MTA_Q690134",
+                "PublishedLineName": [
+                  "Q69"
+                ],
+                "OperatorRef": "MTABC",
+                "OriginRef": "MTA_550624",
+                "DestinationRef": "MTA_982098",
+                "DestinationName": [
+                  "LI CITY QUEENS PLZ via DITMARS BL via 21 ST"
+                ],
+                "OriginAimedDepartureTime": "2022-01-06T23:15:00.000-05:00",
+                "Monitored": true,
+                "VehicleLocation": {
+                  "Longitude": -73.924438,
+                  "Latitude": 40.774135
+                },
+                "Bearing": 51.97277,
+                "ProgressRate": "normalProgress",
+                "ProgressStatus": [
+                  "prevTrip"
+                ],
+                "BlockRef": "MTABC_LGPA2-LG_A2-Weekday-01_6160324",
+                "VehicleRef": "MTABC_7446",
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-01-07T00:30:44.296-05:00",
+                  "ExpectedArrivalTime": "2022-01-07T00:33:31.687-05:00",
+                  "ArrivalProximityText": "6.1 miles away",
+                  "ExpectedDepartureTime": "2022-01-07T00:33:31.687-05:00",
+                  "DistanceFromStop": 9764,
+                  "NumberOfStopsAway": 27,
+                  "StopPointRef": "MTA_550685",
+                  "VisitNumber": 1,
+                  "StopPointName": [
+                    "21 ST/BROADWAY"
+                  ]
+                }
+              },
+              "RecordedAtTime": "2022-01-06T23:34:34.000-05:00"
+            }
+          ],
+          "ResponseTimestamp": "2022-01-06T23:34:58.279-05:00",
+          "ValidUntil": "2022-01-06T23:35:58.279-05:00"
+        }
+      ]
+    }
+  }
+}

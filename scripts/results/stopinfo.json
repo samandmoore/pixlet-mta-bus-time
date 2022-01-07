@@ -1,0 +1,62 @@
+{
+  "code": 200,
+  "currentTime": 1641512482124,
+  "data": {
+    "code": "550685",
+    "direction": "SW",
+    "id": "MTA_550685",
+    "lat": 40.765227,
+    "locationType": 0,
+    "lon": -73.931869,
+    "name": "21 ST/BROADWAY",
+    "routes": [
+      {
+        "agency": {
+          "disclaimer": "",
+          "email": "",
+          "fareUrl": "",
+          "id": "MTABC",
+          "lang": "EN",
+          "name": "MTA Bus Company",
+          "phone": "",
+          "privateService": false,
+          "timezone": "America/New_York",
+          "url": "http://www.mta.info"
+        },
+        "color": "00AEEF",
+        "description": "Via 21St St / Ditmars Blvd",
+        "id": "MTABC_Q69",
+        "longName": "Long Island City - Astoria",
+        "shortName": "Q69",
+        "textColor": "FFFFFF",
+        "type": 3,
+        "url": "http://web.mta.info/busco/schedules/q069cur.pdf"
+      },
+      {
+        "agency": {
+          "disclaimer": "",
+          "email": "",
+          "fareUrl": "",
+          "id": "MTABC",
+          "lang": "EN",
+          "name": "MTA Bus Company",
+          "phone": "",
+          "privateService": false,
+          "timezone": "America/New_York",
+          "url": "http://www.mta.info"
+        },
+        "color": "FAA61A",
+        "description": "Via 21St St / 20Th Av",
+        "id": "MTABC_Q100",
+        "longName": "Astoria / Rikers Island - Long Island City Limited",
+        "shortName": "Q100",
+        "textColor": "FFFFFF",
+        "type": 3,
+        "url": "http://web.mta.info/busco/schedules/q100cur.pdf"
+      }
+    ],
+    "wheelchairBoarding": "UNKNOWN"
+  },
+  "text": "OK",
+  "version": 1
+}

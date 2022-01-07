@@ -1,0 +1,22 @@
+service: pixlet-mta-bus-time
+frameworkVersion: '2'
+provider:
+  name: aws
+  lambdaHashingVersion: 20201221
+  ecr:
+    images:
+      render_and_push:
+        path: .
+        file: Dockerfile
+        platform: linux/amd64
+functions:
+  render_and_push:
+    memorySize: 1024
+    image: render_and_push
+    events:
+      - schedule: rate(1 minute)
+    environment:
+      PIXLET_API_TOKEN: ${env:PIXLET_API_TOKEN}
+      PIXLET_DEVICE_ID: ${env:PIXLET_DEVICE_ID}
+      INSTALLATION_ID: ${env:INSTALLATION_ID}
+      BUS_TIMES_API_KEY: ${env:BUS_TIMES_API_KEY}
