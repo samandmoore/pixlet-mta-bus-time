@@ -11,7 +11,7 @@ provider:
         platform: linux/amd64
 functions:
   render_and_push:
-    memorySize: 1024
+    memorySize: 256
     image: render_and_push
     events:
       - schedule: rate(1 minute)
