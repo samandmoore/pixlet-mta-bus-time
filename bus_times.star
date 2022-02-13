@@ -41,17 +41,18 @@ def build_row(journey, api_key):
     return render.Row(
         expanded=True,
         main_align="space_evenly",
+        cross_align = "center",
         children=[
-            render.Circle(
-                color="#%s" % line_color,
-                diameter=14,
-                child=render.Text(line_name, color="#fff",
-                                  font="CG-pixel-3x5-mono"),
+            render.Box(
+                color = "#%s" % line_color,
+                width = 22,
+                height = 11,
+                child = render.Text(line_name, color = "#000", font = "CG-pixel-4x5-mono"),
             ),
             render.Column(
                 children=[
                     render.Marquee(
-                        width=48,
+                        width=40,
                         child=render.Text(destination_name),
                     ),
                     render.Text(diff_text, color="#c1773e",
@@ -89,7 +90,7 @@ def main(config):
                 render.Box(
                     width=64,
                     height=1,
-                    color="#f5f5f5",
+                    color="#aaa",
                 ),
                 build_row(second_journey, api_key),
             ]
