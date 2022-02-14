@@ -36,7 +36,7 @@ def build_row(journey, api_key):
     eta_time = time.parse_time(eta)
     diff = eta_time - now
     diff_minutes = int(diff.minutes)
-    diff_text = "%d minutes" % diff_minutes if diff_minutes > 0 else "now"
+    diff_text = "%d min" % diff_minutes if diff_minutes > 0 else "now"
 
     return render.Row(
         expanded=True,
@@ -52,7 +52,7 @@ def build_row(journey, api_key):
             render.Column(
                 children=[
                     render.Marquee(
-                        width=40,
+                        width=36,
                         child=render.Text(destination_name),
                     ),
                     render.Text(diff_text, color="#c1773e",
